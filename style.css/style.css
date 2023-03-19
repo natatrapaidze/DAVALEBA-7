@@ -1,0 +1,121 @@
+.logo {
+    height: 37px;
+    width: 106px;
+   margin-top: 62px;
+   margin-left: 98px;
+}
+ul {
+    display: flex;
+   width:600px ;
+   height: 28px;
+   margin-top: -35px;
+   margin-left: 466px;
+}
+li {
+    width:700px ;
+    height: 20px;
+    font-size: 24px;
+    color:  #758BFD;
+}
+.blu {
+    color:  #27187F;
+}
+.serch {
+    width: 221px;
+    height: 55px;
+    margin-left: 1200px;
+    margin-top: -45px;
+}
+.serch1 {
+    width: 39.07px;
+    height: 39.09px;
+    margin-left: 1380px;
+    margin-top: -42px;
+   
+}
+.text{
+    margin-top: 40px ;
+     margin-left: 98px; 
+     padding-top: 50px; 
+     font-size: 32px;
+     color: #27187F;
+}
+
+.firstflex1 {
+    width: 1440px;
+    height: 950px;
+    background: #DDEAF8;
+}
+
+.firstflex {
+    width: 1440px;
+    margin-top: 50px;
+   
+}
+ 
+
+.firstflex {
+
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    width: 1440px;
+
+  
+}
+
+
+.poto {
+justify-content: center;
+border-radius: 10px;
+padding: 50px;
+background: #FFFFFF;
+margin-left: 80px;
+border-radius: 10px;
+}
+.firstflex p {
+    font-size: 20px;
+    margin-top: 30px;
+}
+.firstflex2 {
+    display: flex;
+    margin-top: 50px;
+}
+.firstflex2 p {
+    font-size: 20px;
+    margin-top: 30px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-between;
+    width: 1440px;
+    height: 504px;
+    background: #758BFD;
+}
+.footerdiv {
+   justify-content: center;
+   border-radius: 10px;
+   padding: 50px;
+   margin-left: 40px;
+  
+}
+.footerdiv h4 {
+    font-size: 20px;
+    margin-top: 40px;
+    color: #00CAD7;
+}
+ .footerdiv h6 {
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 20px;
+    
+ }
+ .visa {
+    width: 98px;
+height: 40px;
+background: #FFFFFF;
+border-radius: 5px;
+margin-top: 80px;
+ }
